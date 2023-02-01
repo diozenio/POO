@@ -2,8 +2,8 @@
 
 Aqui estão separados alguns conceitos de POO, com códigos de exercícios práticos.
 
-- [ ] Fundamentos da Programação Orientada a Objetos
-- [ ] Criar Classes e Objetos
+- [x] Fundamentos da Programação Orientada a Objetos
+- [x] Criar Classes e Objetos
 - [ ] Herança
 - [ ] Polimorfismo
 - [ ] Abstração
