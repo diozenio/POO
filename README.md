@@ -5,7 +5,7 @@ Aqui estão separados alguns conceitos de POO, com códigos de exercícios prát
 - [x] Fundamentos da Programação Orientada a Objetos
 - [x] Criar Classes e Objetos
 - [x] Herança
-- [ ] Polimorfismo
+- [x] Polimorfismo
 - [ ] Abstração
 - [ ] Encapsulamento
 - [ ] Interfaces
