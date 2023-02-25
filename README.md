@@ -6,8 +6,8 @@ Aqui estão separados alguns conceitos de POO, com códigos de exercícios prát
 - [x] Criar Classes e Objetos
 - [x] Herança
 - [x] Polimorfismo
+- [x] Encapsulamento
 - [ ] Abstração
-- [ ] Encapsulamento
 - [ ] Interfaces
 - [ ] Exceções
 - [ ] Coleções
