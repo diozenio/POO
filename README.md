@@ -8,7 +8,7 @@ Aqui estão separados alguns conceitos de POO, com códigos de exercícios prát
 - [x] Polimorfismo
 - [x] Abstração
 - [x] Encapsulamento
-- [ ] Interfaces
+- [x] Interfaces
 - [ ] Exceções
 - [ ] Coleções
 - [ ] Técnicas de Programação Orientada a Objetos Avançadas
