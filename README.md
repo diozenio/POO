@@ -9,7 +9,7 @@ Aqui estão separados alguns conceitos de POO, com códigos de exercícios prát
 - [x] Abstração
 - [x] Encapsulamento
 - [x] Interfaces
-- [ ] Exceções
+- [x] Exceções
 - [ ] Coleções
 - [ ] Técnicas de Programação Orientada a Objetos Avançadas
 - [ ] Design Patterns
